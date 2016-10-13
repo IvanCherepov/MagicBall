@@ -1,1 +1,3 @@
 # MagicBall
+
+Android Animation Example
